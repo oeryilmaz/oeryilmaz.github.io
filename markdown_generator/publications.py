@@ -10,9 +10,9 @@
 
 # ## Data format
 # 
-# The TSV needs to have the following columns: pub_date, title, venue, excerpt, citation, site_url, and paper_url, with a header at the top. 
+# The TSV needs to have the following columns: pub_date, title, venue, abstract, citation, site_url, and paper_url, with a header at the top. 
 # 
-# - `excerpt` and `paper_url` can be blank, but the others must have values. 
+# - `abstract` and `paper_url` can be blank, but the others must have values. 
 # - `pub_date` must be formatted as YYYY-MM-DD.
 # - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper. The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/publications/YYYY-MM-DD-[url_slug]`
 
@@ -76,8 +76,8 @@ for row, item in publications.iterrows():
     
     md += """\npermalink: /publication/""" + html_filename
     
-    if len(str(item.excerpt)) > 5:
-        md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
+    if len(str(item.abstract)) > 5:
+        md += "\nabstract: '" + html_escape(item.abstract) + "'"
     
     md += "\ndate: " + str(item.pub_date) 
     
@@ -95,8 +95,8 @@ for row, item in publications.iterrows():
     if len(str(item.paper_url)) > 5:
         md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
         
-    if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
+    if len(str(item.abstract)) > 5:
+        md += "\n" + html_escape(item.abstract) + "\n"
         
     md += "\nRecommended citation: " + item.citation
     
