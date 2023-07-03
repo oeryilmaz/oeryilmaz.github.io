@@ -10,4 +10,4 @@ citation: 'Avdeenko, A and O Eryilmaz (eds) (2021), “DP16266 The Impact of Cli
 ---
 
 
-- Summarized in [VoxEU](https://cepr.org/voxeu/columns/extreme-floods-change-mens-risk-preferences-and-it-could-matter-financing-climate) and the UNDRR's (UN Office for Disaster Risk Reduction) [PreventionWeb]([https://www.undrr.org/?_gl=1*vdj0q8*_ga*MTk4ODIwMzU3Ny4xNjg1NDQxMDc1*_ga_T3RWEE6Z0J*MTY4ODQwMTc3OS40LjAuMTY4ODQwMTc4My4wLjAuMA..](https://www.preventionweb.net/news/extreme-floods-change-mens-risk-preferences-and-it-could-matter-financing-climate-adaptation)https://www.preventionweb.net/news/extreme-floods-change-mens-risk-preferences-and-it-could-matter-financing-climate-adaptation)
+- Summarized in [VoxEU](https://cepr.org/voxeu/columns/extreme-floods-change-mens-risk-preferences-and-it-could-matter-financing-climate) and the UNDRR's (UN Office for Disaster Risk Reduction) [PreventionWeb](https://www.preventionweb.net/news/extreme-floods-change-mens-risk-preferences-and-it-could-matter-financing-climate-adaptation)
