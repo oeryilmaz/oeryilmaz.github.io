@@ -2,7 +2,6 @@
 title: "The Impact of Climate Change on Risk Aversion and Mitigation Behavior: Evidence from Germany"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-abstract: In particular, we document that selection on risk aversion leads to a higher uptake in life insurances in high-risk areas.
 date: 2021-06-16
 paperurl: 'https://cepr.org/publications/dp16266'
 linktext: 'CEPR Discussion Paper No. 16266'   # Add this line
