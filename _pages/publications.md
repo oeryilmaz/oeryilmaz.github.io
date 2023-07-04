@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Working Papers</h2>
+
 {% for post in site.publications reversed %}
   {% if post.publication_type == 'working-papers' %}
   <div>
@@ -23,6 +25,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<h2>Work in Progress</h2>
 
 {% for post in site.publications reversed %}
   {% if post.publication_type == 'wip' %}
