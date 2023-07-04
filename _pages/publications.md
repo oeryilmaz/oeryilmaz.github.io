@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Working Papers
-
 {% for post in site.publications reversed %}
   <div>
     <h2>{{ post.title }}</h2>
