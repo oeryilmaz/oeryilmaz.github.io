@@ -10,3 +10,9 @@ li ol li {
     height: 100px; /* make sure this matches the width */
   }
 }
+
+@media only screen and (max-width: 600px) {
+  .author__bio {
+    font-size: 18px; // increase this to increase size
+  }
+}
