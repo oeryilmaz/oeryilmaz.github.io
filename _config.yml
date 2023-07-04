@@ -59,10 +59,6 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-#facebook:
- # username               :
- # app_id                 :
- # publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -86,36 +82,13 @@ author:
   bio              : "PhD Candidate in Economics at the Center of Economic Research at ETH Zurich (CER-ETH)"
   location         : "Zurich, Switzerland"
   employer         : "ETH Zurich"
-  #pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=O7YEbW8AAAAJ&hl=de"
   email            :
-  #researchgate     :  
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  #flickr           :
-  #facebook         :
-  #foursquare       :
   github           : 
-  #google_plus      :
-  keybase          :
-  #instagram        :
-  #impactstory      : 
-  #lastfm           :
   linkedin         :
   orcid            : 
-  #pinterest        :
-  #soundcloud       :
-  #stackoverflow    : 
-  #steam            :
-  #tumblr           :
   twitter          : 
-  #vine             :
-  #weibo            :
   xing             :
-  #youtube          :
-  #wikipedia        :
 
 
 # Reading Files
