@@ -14,7 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   <div>
     <h2>{{ post.title }}</h2>
+    {% comment %}
     {% if post.date %}<p>Date: {{ post.date | date: "%B %Y" }}</p>{% endif %}
+    {% endcomment %}
     {% if post.venue %}<p>Venue: {{ post.venue }}</p>{% endif %}
     {% if post.excerpt %}<p> {{ post.excerpt }}</p>{% endif %}
     {% if post.paperurl %}<p><a href="{{ post.paperurl }}">{{ post.linktext | default: "Download paper here" }}</a></p>{% endif %}
