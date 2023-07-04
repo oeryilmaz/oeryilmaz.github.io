@@ -6,14 +6,14 @@ li ol li {
 
 @media only screen and (max-width: 600px) {
   .author__avatar {
-    width: 150px; /* or whatever size you prefer */
+    width: 180px; /* or whatever size you prefer */
     height: 150px; /* make sure this matches the width */
   }
 }
 
 @media only screen and (max-width: 600px) {
   .author__bio {
-    font-size: 40px; // increase this to increase size
+    font-size: 400px; // increase this to increase size
   }
 }
 
