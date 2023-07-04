@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
+  {% if post.publication_type == 'working-papers' %}
   <div>
     <h2>{{ post.title }}</h2>
     {% comment %}
@@ -19,4 +20,5 @@ author_profile: true
     {% if post.paperurl %}<p><a href="{{ post.paperurl }}">{{ post.linktext | default: "Download paper here" }}</a></p>{% endif %}
     <p>{{ post.content }}</p>
   </div>
+  {% endif %}
 {% endfor %}
