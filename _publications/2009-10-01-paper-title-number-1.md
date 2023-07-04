@@ -6,6 +6,7 @@ excerpt: 'This paper investigates whether the 2013 floods in Germany affected ri
 date: 2021-06-16
 paperurl: 'https://cepr.org/publications/dp16266'
 linktext: 'CEPR Discussion Paper No. 16266'
+publication_type: 'working-papers'
 citation: 'Avdeenko, A and O Eryilmaz (eds) (2021), “DP16266 The Impact of Climate Change on Risk Aversion and Mitigation Behavior: Evidence from Germany”, CEPR Press Discussion Paper No. 16266. https://cepr.org/publications/dp16266'
 ---
 
