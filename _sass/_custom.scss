@@ -16,3 +16,9 @@ li ol li {
     font-size: 20px; // increase this to increase size
   }
 }
+
+@media only screen and (max-width: 600px) {
+  .site-title {
+    font-size: 32px; // Adjust this size as per your need
+  }
+}
