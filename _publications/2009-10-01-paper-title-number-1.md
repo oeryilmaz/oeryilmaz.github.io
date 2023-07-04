@@ -1,5 +1,5 @@
 ---
-title: 'The Impact of Climate Change on Risk Aversion and Mitigation Behavior: Evidence from Germany'
+title: 'The Impact of Climate Change on Risk Aversion and Mitigation Behavior: Evidence from Germany (with Alexandra Avdeenko)'
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper investigates whether the 2013 floods in Germany affected risk preferences and mitigation behavior, using a representative, longitudinal data set. Exploiting the circumstance that this weather phenomenon was unanticipated, we provide robust evidence that flood exposure had a depressing impact on individual willingness to take risks. The effect size corresponds to a 4.85 percent reduction from the pre-treatment mean, varies between men and women, and is detectable up to five years after the shock. We show that this change is mediated by changes in well-being. Moreover, we discuss whether these changes in risk aversion may eventually reduce the costly moral hazard problem in climate change mitigation policies. In particular, we document that selection on risk aversion leads to a higher uptake in life insurances in high-risk areas.'
