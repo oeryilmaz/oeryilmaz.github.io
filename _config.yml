@@ -150,7 +150,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-   output: false
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
