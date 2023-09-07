@@ -11,7 +11,7 @@ locale                   : "de-CH"
 title                    : "Onur Eryilmaz"
 #title_separator          : 
 name                     : &name "Onur Eryilmaz"
-description              : &description "personal description"
+description              : &description "I am an academic researcher in empirical microeconomics. Explore my research and CV here."
 url                      : https://oeryilmaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oeryilmaz.github.io"
