@@ -9,7 +9,7 @@
 # Site Settings
 locale                   : "de-CH"
 title                    : "Onur Eryilmaz"
-title_separator          : "Economics"
+#title_separator          : "Economics"
 name                     : &name "Onur Eryilmaz"
 description              : &description "I am an academic researcher in empirical microeconomics. Explore my research and CV here."
 url                      : https://oeryilmaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
