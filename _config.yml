@@ -12,7 +12,7 @@ title                    : "Onur Eryilmaz"
 #title_separator          : "Economics"
 name                     : &name "Onur Eryilmaz"
 description              : &description "I am an academic researcher in empirical microeconomics. Explore my research and CV here."
-url                      : https://oeryilmaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.oeryilmaz.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oeryilmaz.github.io"
 keywords                 : ["academic researcher", "adacemid", "economics", "ETH", "Zurich", "aging", "population aging", "pensions", "health", "causal", "retirement savings", "Switzerland", "policy evaluation", "empirical microeconomics", "ETH Zurich"] 
