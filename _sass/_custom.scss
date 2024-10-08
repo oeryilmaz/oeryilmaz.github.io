@@ -5,6 +5,14 @@ li ol li {
     margin-bottom: 0;
 }
 
+/* Styles for desktop or larger screens */
+.author__avatar {
+  width: 200px; /* Larger width for desktop */
+  height: 250px; /* Larger height for desktop */
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 @media only screen and (max-width: 600px) {
   .author__avatar {
     width: 160px; /* Width of the avatar */
