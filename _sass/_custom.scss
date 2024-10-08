@@ -7,10 +7,10 @@ li ol li {
 
 @media only screen and (max-width: 600px) {
   .author__avatar {
-    width: 160px; /* Set the width for small screens */
-    height: auto; /* Auto height to maintain aspect ratio */
-    border-radius: 50%; /* Makes the avatar circular */
-    object-fit: cover; /* Ensures proper scaling */
+    width: 160px; /* Width of the avatar */
+    height: 180px; /* Height, slightly taller than the width */
+    border-radius: 50%; /* Keeps it circular */
+    object-fit: cover; /* Ensures the image doesn’t stretch */
   }
 
   .author__bio {
