@@ -1,11 +1,8 @@
-layout 	title 	permalink 	author_profile
-archive
-	
-	
-/projects/
-	
-true
+---
+layout: archive
+title: ""
+permalink: /projects/
+author_profile: true
+---
 
 {% include base_path %}
-
-Stay tuned.
