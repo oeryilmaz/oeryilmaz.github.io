@@ -1,3 +1,4 @@
+/* Reset list margins */
 li ul li, 
 li ol li {
     margin-top: 0;
@@ -6,25 +7,21 @@ li ol li {
 
 @media only screen and (max-width: 600px) {
   .author__avatar {
-    width: 160px; /* or whatever size you prefer */
-    height: 150px; /* make sure this matches the width */
+    width: 160px; /* Set the width for small screens */
+    height: auto; /* Auto height to maintain aspect ratio */
+    border-radius: 50%; /* Makes the avatar circular */
+    object-fit: cover; /* Ensures proper scaling */
   }
-}
 
-@media only screen and (max-width: 600px) {
   .author__bio {
-    font-size: 16px !important; /* increase this to increase size*/
+    font-size: 16px !important; /* Adjust bio font size */
   }
-}
 
-@media only screen and (max-width: 600px) {
   .site-title {
-    font-size: 42px !important; // Adjust this size as per your need
+    font-size: 42px !important; /* Adjust title font size */
   }
-}
-@media only screen and (max-width: 600px) {
-  .author__name {
-    font-size: 18 px !important; /* Adjust this size as per your need */
-  }
-}
 
+  .author__name {
+    font-size: 18px !important; /* Adjust name font size */
+  }
+}
