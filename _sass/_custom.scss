@@ -8,7 +8,7 @@ li ol li {
 @media only screen and (max-width: 600px) {
   .author__avatar {
     width: 160px; /* Width of the avatar */
-    height: 280px; /* Height, slightly taller than the width */
+    height: 220px; /* Height, slightly taller than the width */
     border-radius: 50%; /* Keeps it circular */
     object-fit: cover; /* Ensures the image doesn’t stretch */
   }
