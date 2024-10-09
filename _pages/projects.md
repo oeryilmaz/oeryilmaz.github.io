@@ -22,7 +22,7 @@ Here is a collection of resources I have found really useful in my research and 
 - [dtplyr](https://dtplyr.tidyverse.org/): This is basically a data.table backend for dplyr, which means you get the speed of data.table with the more user-friendly syntax of dplyr.
 - [shiny](https://shiny.rstudio.com/): Build interactive web apps straight from R.
 - [plotly](https://plotly.com/r/): For creating interactive and dynamic visualizations.
-- [renv](https://rstudio.github.io/renv/): A project-local package management system, similar to Python's virtualenv. It keeps your project's R dependencies isolated and reproducible, which is crucial to reproduce results.
+- [renv](https://rstudio.github.io/renv/): A project-local package management system, similar to Python's virtualenv. It keeps your project's R dependencies isolated and reproducible.
 - [here](https://here.r-lib.org/): Great for managing file paths in R projects. It creates paths relative to the root directory, making collaborations easier.
 
 #### Estimators
