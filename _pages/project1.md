@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-- [Consumer Confidence Indicators Visualization](https://oeryilmaz.shinyapps.io/consumer_confidence_indicators/)
+# Consumer Confidence Indicators Shiny App
 
-  This Shiny app visualizes changes in the OECD's Consumer Confidence Indicator (CCI) for a selected set of countries. It helps users understand consumer optimism/pessimism trends and their potential economic impact.
+<iframe src="https://oeryilmaz.shinyapps.io/consumer_confidence_indicators/" 
+        width="100%" 
+        height="600px"
+        style="border:none;">
+</iframe>
