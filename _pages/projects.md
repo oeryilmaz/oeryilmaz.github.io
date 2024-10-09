@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-## My Projects
+## Interactive Visualizations
+- [Consumer Confidence Indicators](/projects/project1/)
 
-- [Project 1](/projects/project1/)
+## Static Visualizations
+*Coming soon!*
