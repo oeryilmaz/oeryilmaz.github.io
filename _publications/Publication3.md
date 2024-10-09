@@ -6,3 +6,6 @@ excerpt: "This paper investigates the impact of severe health shocks on labor su
 publication_type: 'wip'
 date: 2024-06-21
 ---
+
+[Download the PDF here](../files/publication3.pdf)
+[Or on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4864143)
