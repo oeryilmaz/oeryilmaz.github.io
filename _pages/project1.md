@@ -11,6 +11,6 @@ author_profile: true
 
 <iframe src="https://oeryilmaz.shinyapps.io/consumer_confidence_indicators/" 
         width="100%" 
-        height="600px"
+        height="800px"
         style="border:none;">
 </iframe>
