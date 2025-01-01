@@ -7,6 +7,4 @@ publication_type: 'working-papers'
 date: 2024-03-01
 ---
 
-[Download the PDF here](../files/DME_2024.pdf)
-
-[Or on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4864143)
+[Access on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4864143)
