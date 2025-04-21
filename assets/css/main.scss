@@ -42,32 +42,10 @@
 
 // custom imports OE
 @import "custom";
-
-
-@import "vendor/magnific-popup/magnific-popup";
-@import "print";
-
-// custom imports OE
-@import "custom";
-
-/* === Sidebar + Masthead avatar overrides (add this) === */
+/* === Remove avatar border & shadow only === */
 .author__avatar img,
 .avatar-outer img {
-  /* strip theme padding and border */
   padding: 0 !important;
   border: 0 !important;
   box-shadow: none !important;
-
-  /* square off */
-  border-radius: 0 !important;
-
-  /* override max-width */
-  max-width: none !important;
-
-  /* your rectangle dimensions */
-  width: 200px !important;   /* ← adjust to your desired width */
-  height: 150px !important;  /* ← adjust to your desired height */
-
-  /* crop & fill */
-  object-fit: cover !important;
 }
